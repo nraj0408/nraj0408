@@ -5,8 +5,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/nraj0408](https://github.com/nraj0408)
 
-- 📫 How to reach me **nraikar23@gmail.com**
+- Email: **nraikar23@gmail.com**
 
+- Linkedin: https://www.linkedin.com/in/nagraj-raikar-87921a12a/ 
+
+- Twitter:https://twitter.com/NRAJ_RAIKAR
 
 <p align="left">
 </p>
