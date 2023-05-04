@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nagraj Raikar</h1>
-<h3 align="center">I am Engineer from India</h3>
+<h3 align="center">A Software Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nraj0408&label=Profile%20views&color=0e75b6&style=flat" alt="nraj0408" /> </p>
 
