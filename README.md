@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nraj0408&label=Profile%20views&color=0e75b6&style=flat" alt="nraj0408" /> </p>
 
 -  Projects repo Github: [https://github.com/nraj0408](https://github.com/nraj0408)
--  Projects repo Gitlab: [https://github.com/nraj0408](https://gitlab.com/nraj0408)
+-  Projects repo Gitlab: [https://gitlab.com/nraj0408](https://gitlab.com/nraj0408)
 
 - Email: **nraikar23@gmail.com**
 
